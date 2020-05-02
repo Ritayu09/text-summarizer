@@ -1,6 +1,6 @@
 
 """
-@author: ritayu
+@author: ritayu_nagpal
 """
 
 import numpy as np  
